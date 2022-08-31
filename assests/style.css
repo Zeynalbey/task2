@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+.startboostrap .second-header {
+    float: right;
+    color: white;
+    font-size: 18px;
+    background-color: #0d6efd;
+    padding: 14px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin: 5px 7rem 5px 7px;
+}
+
+.startboostrap {
+    width: 100%;
+}
+
+.startboostrap .first-header {
+    float: left;
+    margin: 1.2rem 5rem;
+    font-size: 23px;
+    color: black;
+    text-decoration: none;
+}
+
+.firstpic {
+    padding: 49px 0px 0px;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100;
+    overflow: auto;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+}
+
+.firstpic input::placeholder {
+    font-size: 30px;
+}
+
+.firstpic input {
+    height: 3rem;
+    width: 26rem;
+    border-radius: 5px;
+    font-size: 26px;
+    border: none;
+}
+
+.firstpic h1 {
+    font-size: 3rem;
+    margin: 3rem;
+    color: white;
+    margin-top: 11rem;
+}
+
+.firstpic a {
+    color: white;
+    font-size: 18px;
+    background-color: #0d6efd;
+    padding: 16px;
+    margin-block-start: 16px 26px 16px 3px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.services {
+    padding: 3rem 5rem;
+    overflow: auto;
+}
+
+.services .box-top {
+    text-align: center;
+    font-size: 92px;
+    color: blue;
+    transition: 0.5s;
+}
+
+.services .box {
+    width: 10%;
+    float: left;
+    margin-left: 246px;
+}
+
+.services .box-top:hover{
+    transform: translateY(-10px);
+}
+
+.services .box .box-bottom {
+    font-size: 20px;
+}
+
+.services .box .box-bottom h3 {
+    padding-bottom: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+.leftry {
+    overflow: auto;
+}
+
+.leftry .box {
+    float: left;
+    width: 50%;
+    transition: 0.5s;
+}
+
+.leftry .box:hover{
+    transform: translateY(-10px);
+}
+.box img {
+    width: 100%;
+}
+
+.leftry .box .zaza {
+    text-align: center;
+    margin-top: 11rem;
+}
+
+.our-team {
+    padding: 40px 0;
+}
+
+.our-team .team-top {
+    text-align: center;
+}
+
+.our-team .team-bottom .box {
+    padding-top: 5rem;
+    width: 10%;
+    float: left;
+    margin-left: 236px;
+}
+
+.our-team .team-bottom .box-bottom {
+    text-align: center;
+}
+
+.our-team .team-bottom .box .box-top{
+    transition: 0.5s;
+}
+
+.our-team .team-bottom .box .box-top:hover{
+    transform: rotate(360deg);
+}
+
+.our-team .team-bottom .box .box-top img {
+    width: 100%;
+    border-radius: 100%;
+}
+
+.our-team .team-finish p {
+    text-align: center;
+}
+
+.p325 {
+    clear: both;
+}
+
+.finish input {
+    height: 3rem;
+    width: 26rem;
+    border-radius: 5px;
+    font-size: 26px;
+    border: none;
+}
+
+.finish h1 {
+
+    font-size: 31px;
+    margin: 2rem;
+    color: white;
+    margin-top: 7rem;
+}
+
+.finish a {
+    color: white;
+    font-size: 18px;
+    background-color: #0d6efd;
+    padding: 16px;
+    margin-block-start: 16px 26px 16px 3px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.finish {
+    padding: 49px 10px 0px;
+    text-align: center;
+    height: 386px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100;
+    overflow: auto;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+}
+
+.fin .left {
+    padding: 54px;
+    color: blue;
+}
+
+.fin i {
+    font-size: 5px;
+    padding: 0 5px 0 5px;
+}
+
+.fin p {
+    word-spacing: 5px;
+    padding: 12px 0px 0px 0;
+    color: black;
+    font-size: 14px;
+}
+
+.fin .left a {
+    color: blue;
+}
+
+.right {
+    padding: 14px;
+    float: right;
+    margin: -91px 92px 0px 0px;
+}
+
+.right i {
+    font-size: 28px;
+    color: blue;
+}
